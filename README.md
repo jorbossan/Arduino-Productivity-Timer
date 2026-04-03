@@ -1,10 +1,10 @@
-# Arduino-Productivity-Timer
+* Arduino-Productivity-Timer
 
 Arduino-based productivity timer that utilizes visual (LEDs) and audio (buzzer) feedback to signal time intervals. The system is designed to support time management during focused tasks, with configurable durations and customizable messages displayed on an I2C LCD.
 
 
 
-## Project Preview
+Project Preview
 
 <p align="center">
   <img src="setup.jpg" width="400">
@@ -12,7 +12,7 @@ Arduino-based productivity timer that utilizes visual (LEDs) and audio (buzzer) 
 
 
 
-## Features
+Features
 
 - 20 / 40 / 60 minute intervals (configurable)
 - LCD I2C display (16x2)
@@ -23,7 +23,7 @@ Arduino-based productivity timer that utilizes visual (LEDs) and audio (buzzer) 
 
 
 
-## Wiring
+Wiring
 
 - SDA → A4 (Arduino Uno)
 - SCL → A5 (Arduino Uno)
@@ -35,7 +35,7 @@ Arduino-based productivity timer that utilizes visual (LEDs) and audio (buzzer) 
 
 
 
-## How it works
+How it works
 
 The system runs three timed intervals (20, 40, and 60 minutes).
 
