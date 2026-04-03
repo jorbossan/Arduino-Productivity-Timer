@@ -6,7 +6,7 @@ Arduino-based productivity timer that utilizes visual (LEDs) and audio (buzzer) 
 
 ## Project Preview
 
-<img src="setup.jpg" width="400">
+<img src="setup.jpg" width="350">
 
 
 
